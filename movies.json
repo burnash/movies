@@ -1,0 +1,697 @@
+[
+  {
+    "title": "Attica",
+    "year": "1974",
+    "short_description": "A gripping documentary that explores the infamous 1971 prison uprising in Attica, New York.",
+    "director": "Cinda Firestone",
+    "actors": [
+      "Frank Smith",
+      "Roger Champen"
+    ],
+    "genre": [
+      "Documentary",
+      "History"
+    ],
+    "year_of_induction": "2022"
+  },
+  {
+    "title": "The Ballad of Gregorio Cortez",
+    "year": "1982",
+    "short_description": "A riveting tale of a Mexican-American farmer who becomes a fugitive in Texas during the 1900s.",
+    "director": "Robert M. Young",
+    "actors": [
+      "Edward James Olmos",
+      "James Gammon"
+    ],
+    "genre": [
+      "Drama",
+      "Western"
+    ],
+    "year_of_induction": "2022"
+  },
+  {
+    "title": "Behind Every Good Man",
+    "year": "1967",
+    "short_description": "An early exploration of transgender life, focusing on the story of a trans woman in 1960s Los Angeles.",
+    "director": "Nikolas Ursin",
+    "actors": [
+      "N/A"
+    ],
+    "genre": [
+      "Documentary",
+      "Short"
+    ],
+    "year_of_induction": "2022"
+  },
+  {
+    "title": "Betty Tells Her Story",
+    "year": "1972",
+    "short_description": "A poignant short film about a woman named Betty and her personal journey of self-discovery.",
+    "director": "Liane Brandon",
+    "actors": [
+      "Betty Pecha Madden"
+    ],
+    "genre": [
+      "Documentary",
+      "Short"
+    ],
+    "year_of_induction": "2022"
+  },
+  {
+    "title": "Bush Mama",
+    "year": "1979",
+    "short_description": "A powerful drama about an African-American woman struggling with life in the Watts district of Los Angeles.",
+    "director": "Haile Gerima",
+    "actors": [
+      "Barbara O. Jones",
+      "Johnny Weathers"
+    ],
+    "genre": [
+      "Drama"
+    ],
+    "year_of_induction": "2022"
+  },
+  {
+    "title": "Cab Calloway Home Movies",
+    "year": "1948-51",
+    "short_description": "A collection of home movies featuring the legendary jazz musician Cab Calloway.",
+    "director": "Cab Calloway",
+    "actors": [
+      "Cab Calloway"
+    ],
+    "genre": [
+      "Documentary",
+      "Music"
+    ],
+    "year_of_induction": "2022"
+  },
+  {
+    "title": "Carrie",
+    "year": "1976",
+    "short_description": "A chilling horror film about a shy, bullied high school girl who discovers she has telekinetic powers.",
+    "director": "Brian De Palma",
+    "actors": [
+      "Sissy Spacek",
+      "Piper Laurie"
+    ],
+    "genre": [
+      "Horror"
+    ],
+    "year_of_induction": "2022"
+  },
+  {
+    "title": "Charade",
+    "year": "1963",
+    "short_description": "A thrilling romantic comedy about a woman pursued by several men who want a fortune her murdered husband had stolen.",
+    "director": "Stanley Donen",
+    "actors": [
+      "Cary Grant",
+      "Audrey Hepburn"
+    ],
+    "genre": [
+      "Comedy",
+      "Mystery",
+      "Romance"
+    ],
+    "year_of_induction": "2022"
+  },
+  {
+    "title": "Cyrano de Bergerac",
+    "year": "1950",
+    "short_description": "A classic romantic drama about a poetic but large-nosed man who helps a handsome man woo the woman he himself loves.",
+    "director": "Michael Gordon",
+    "actors": [
+      "José Ferrer",
+      "Mala Powers"
+    ],
+    "genre": [
+      "Drama",
+      "Romance"
+    ],
+    "year_of_induction": "2022"
+  },
+  {
+    "title": "Hairspray",
+    "year": "1988",
+    "short_description": "A fun and vibrant musical comedy about a teenager's dream to dance on a local TV show in 1960s Baltimore.",
+    "director": "John Waters",
+    "actors": [
+      "Ricki Lake",
+      "Divine"
+    ],
+    "genre": [
+      "Comedy",
+      "Drama",
+      "Music"
+    ],
+    "year_of_induction": "2022"
+  },
+  {
+    "title": "House Party",
+    "year": "1990",
+    "short_description": "A hilarious comedy about a high schooler who throws a house party while his parents are away.",
+    "director": "Reginald Hudlin",
+    "actors": [
+      "Christopher Reid",
+      "Robin Harris"
+    ],
+    "genre": [
+      "Comedy",
+      "Music",
+      "Romance"
+    ],
+    "year_of_induction": "2022"
+  },
+  {
+    "title": "Iron Man",
+    "year": "2008",
+    "short_description": "An action-packed superhero film about a wealthy industrialist who builds a high-tech suit of armor to save his own life and then uses it to fight evil.",
+    "director": "Jon Favreau",
+    "actors": [
+      "Robert Downey Jr.",
+      "Gwyneth Paltrow"
+    ],
+    "genre": [
+      "Action",
+      "Adventure",
+      "Sci-Fi"
+    ],
+    "year_of_induction": "2022"
+  },
+  {
+    "title": "Itam Hakim, Hopiit",
+    "year": "1984",
+    "short_description": "A compelling documentary about the Hopi people and their connection to the land.",
+    "director": "Victor Masayesva Jr.",
+    "actors": [
+      "N/A"
+    ],
+    "genre": [
+      "Documentary"
+    ],
+    "year_of_induction": "2022"
+  },
+  {
+    "title": "The Little Mermaid",
+    "year": "1989",
+    "short_description": "A beloved animated musical about a young mermaid who makes a deal with a sea witch in order to become human and win the love of a prince.",
+    "director": "Ron Clements, John Musker",
+    "actors": [
+      "Jodi Benson",
+      "Samuel E. Wright"
+    ],
+    "genre": [
+      "Animation",
+      "Family",
+      "Fantasy"
+    ],
+    "year_of_induction": "2022"
+  },
+  {
+    "title": "Manzanar",
+    "year": "1971",
+    "short_description": "A thought-provoking short film about the Manzanar internment camp where Japanese-Americans were held during World War II.",
+    "director": "Robert A. Nakamura",
+    "actors": [
+      "N/A"
+    ],
+    "genre": [
+      "Documentary",
+      "Short"
+    ],
+    "year_of_induction": "2022"
+  },
+  {
+    "title": "Mardi Gras Carnival",
+    "year": "1898",
+    "short_description": "One of the earliest known films, capturing the vibrant and lively Mardi Gras Carnival in New Orleans.",
+    "director": "Thomas A. Edison",
+    "actors": [
+      "N/A"
+    ],
+    "genre": [
+      "Documentary",
+      "Short"
+    ],
+    "year_of_induction": "2022"
+  },
+  {
+    "title": "Mingus",
+    "year": "1968",
+    "short_description": "An intimate documentary about the life and work of jazz musician Charles Mingus.",
+    "director": "Thomas Reichman",
+    "actors": [
+      "Charles Mingus"
+    ],
+    "genre": [
+      "Documentary",
+      "Music"
+    ],
+    "year_of_induction": "2022"
+  },
+  {
+    "title": "Pariah",
+    "year": "2011",
+    "short_description": "A powerful drama about a Brooklyn teenager who juggles conflicting identities and risks friendship, heartbreak, and family in a desperate search for sexual expression.",
+    "director": "Dee Rees",
+    "actors": [
+      "Adepero Oduye",
+      "Kim Wayans"
+    ],
+    "genre": [
+      "Drama"
+    ],
+    "year_of_induction": "2022"
+  },
+  {
+    "title": "Scorpio Rising",
+    "year": "1964",
+    "short_description": "An experimental short film that juxtaposes biker culture with religious iconography and Hollywood imagery.",
+    "director": "Kenneth Anger",
+    "actors": [
+      "Ernie Allo",
+      "Bruce Byron"
+    ],
+    "genre": [
+      "Short",
+      "Fantasy"
+    ],
+    "year_of_induction": "2022"
+  },
+  {
+    "title": "Super Fly",
+    "year": "1972",
+    "short_description": "A gritty crime drama about a drug dealer who tries to score one more big deal before he quits the business for good.",
+    "director": "Gordon Parks Jr.",
+    "actors": [
+      "Ron O'Neal",
+      "Carl Lee"
+    ],
+    "genre": [
+      "Action",
+      "Crime",
+      "Drama"
+    ],
+    "year_of_induction": "2022"
+  },
+  {
+    "title": "Titicut Follies",
+    "year": "1967",
+    "short_description": "A harrowing documentary that exposes the conditions at the State Prison for the Criminally Insane at Bridgewater, Massachusetts.",
+    "director": "Frederick Wiseman",
+    "actors": [
+      "N/A"
+    ],
+    "genre": [
+      "Documentary"
+    ],
+    "year_of_induction": "2022"
+  },
+  {
+    "title": "Tongues Untied",
+    "year": "1989",
+    "short_description": "A groundbreaking documentary that explores black, gay identity through a mix of personal testimonies, poetry and performance.",
+    "director": "Marlon Riggs",
+    "actors": [
+      "Essex Hemphill",
+      "Brian Freeman"
+    ],
+    "genre": [
+      "Documentary"
+    ],
+    "year_of_induction": "2022"
+  },
+  {
+    "title": "Union Maids",
+    "year": "1976",
+    "short_description": "A documentary about three women who participated in the labor movement in Chicago during the 1930s and 1940s.",
+    "director": "Julia Reichert, Jim Klein",
+    "actors": [
+      "Stella Nowicki",
+      "Sylvia Woods"
+    ],
+    "genre": [
+      "Documentary",
+      "History"
+    ],
+    "year_of_induction": "2022"
+  },
+  {
+    "title": "When Harry Met Sally",
+    "year": "1989",
+    "short_description": "A charming romantic comedy about two friends who resist their chemistry to maintain their friendship, only to realize that it's really love.",
+    "director": "Rob Reiner",
+    "actors": [
+      "Billy Crystal",
+      "Meg Ryan"
+    ],
+    "genre": [
+      "Romantic",
+      "Comedy"
+    ]
+  },
+  {
+    "title": "Word is Out: Stories of Our Lives",
+    "year": "1978",
+    "short_description": "A groundbreaking documentary that features interviews with 26 gay men and women, discussing their lives and experiences.",
+    "director": "Nancy Adair, Andrew Brown",
+    "actors": [
+      "N/A"
+    ],
+    "genre": [
+      "Documentary"
+    ]
+  },
+  {
+    "title": "Chicana",
+    "year": "1979",
+    "short_description": "A powerful documentary that explores the experiences of Mexican-American women involved in the Chicano Civil Rights Movement.",
+    "director": "Sylvia Morales",
+    "actors": [
+      "N/A"
+    ],
+    "genre": [
+      "Documentary"
+    ]
+  },
+  {
+    "title": "Cooley High",
+    "year": "1975",
+    "short_description": "A coming-of-age film about a group of high school friends in 1960s Chicago, navigating the ups and downs of adolescence.",
+    "director": "Michael Schultz",
+    "actors": [
+      "Glynn Turman",
+      "Lawrence Hilton-Jacobs"
+    ],
+    "genre": [
+      "Drama",
+      "Comedy"
+    ]
+  },
+  {
+    "title": "Evergreen",
+    "year": "1965",
+    "short_description": "A musical drama about a young woman who becomes a star, but struggles with the pressures of fame and love.",
+    "director": "Victor Saville",
+    "actors": [
+      "Jesse Matthews",
+      "Sonnie Hale"
+    ],
+    "genre": [
+      "Musical",
+      "Drama"
+    ]
+  },
+  {
+    "title": "Flowers and Trees",
+    "year": "1932",
+    "short_description": "An animated short film about two trees in love, threatened by a mean old tree. The first ever color cartoon to win an Oscar.",
+    "director": "Burt Gillett",
+    "actors": [
+      "N/A"
+    ],
+    "genre": [
+      "Animation",
+      "Short"
+    ]
+  },
+  {
+    "title": "The Flying Ace",
+    "year": "1926",
+    "short_description": "A silent film about a World War I fighter pilot who returns home a war hero and helps solve a mystery.",
+    "director": "Richard E. Norman",
+    "actors": [
+      "Lawrence Criner",
+      "Kathryn Boyd"
+    ],
+    "genre": [
+      "Adventure",
+      "Silent"
+    ]
+  },
+  {
+    "title": "Hell-Bound Train",
+    "year": "1930",
+    "short_description": "A unique silent film that uses a metaphorical train journey to depict the consequences of sinful behavior.",
+    "director": "Eloyce Gist, James Gist",
+    "actors": [
+      "N/A"
+    ],
+    "genre": [
+      "Drama",
+      "Silent"
+    ]
+  },
+  {
+    "title": "Jubilo",
+    "year": "1919",
+    "short_description": "A silent comedy about a tramp who helps a woman and her young daughter escape their abusive husband and father.",
+    "director": "Clarence G. Badger",
+    "actors": [
+      "Will Rogers",
+      "Josie Sedgwick"
+    ],
+    "genre": [
+      "Comedy",
+      "Silent"
+    ]
+  },
+  {
+    "title": "The Long Goodbye",
+    "year": "1973",
+    "short_description": "A neo-noir film about a private detective who gets embroiled in a murder case while trying to find his friend's missing wife.",
+    "director": "Robert Altman",
+    "actors": [
+      "Elliott Gould",
+      "Nina Van Pallandt"
+    ],
+    "genre": [
+      "Crime",
+      "Drama"
+    ]
+  },
+  {
+    "title": "The Lord of the Rings: Fellowship of the Ring",
+    "year": "2001",
+    "short_description": "The first installment of the epic fantasy trilogy, where a young hobbit embarks on a perilous journey to destroy a powerful ring.",
+    "director": "Peter Jackson",
+    "actors": [
+      "Elijah Wood",
+      "Ian McKellen"
+    ],
+    "genre": [
+      "Adventure",
+      "Fantasy"
+    ]
+  },
+  {
+    "title": "The Murder of Fred Hampton",
+    "year": "1971",
+    "short_description": "A documentary about the life and death of Fred Hampton, the young, charismatic leader of the Black Panther Party in Chicago.",
+    "director": "Howard Alk",
+    "actors": [
+      "N/A"
+    ],
+    "genre": [
+      "Documentary"
+    ]
+  },
+  {
+    "title": "A Nightmare on Elm Street",
+    "year": "1984",
+    "short_description": "A horror film about a group of teenagers who are terrorized in their dreams by the disfigured killer, Freddy Krueger.",
+    "director": "Wes Craven",
+    "actors": [
+      "Heather Langenkamp",
+      "Johnny Depp"
+    ],
+    "genre": [
+      "Horror"
+    ]
+  },
+  {
+    "title": "Pink Flamingos",
+    "year": "1972",
+    "short_description": "A cult classic about a drag queen who competes with a couple to be named the \"filthiest person alive\".",
+    "director": "John Waters",
+    "actors": [
+      "Divine",
+      "David Lochary"
+    ],
+    "genre": [
+      "Comedy",
+      "Crime"
+    ]
+  },
+  {
+    "title": "Requiem 29",
+    "year": "1970",
+    "short_description": "A documentary about the tragic events of the 1968 Democratic National Convention in Chicago, where police and protesters violently clashed.",
+    "director": "David Hoffman",
+    "actors": [
+      "N/A"
+    ],
+    "genre": [
+      "Documentary"
+    ]
+  },
+  {
+    "title": "Return of the Jedi",
+    "year": "1983",
+    "short_description": "The final installment of the original Star Wars trilogy, where the Rebel Alliance makes a final stand against the Empire.",
+    "director": "Richard Marquand",
+    "actors": [
+      "Mark Hamill",
+      "Harrison Ford"
+    ],
+    "genre": [
+      "Adventure",
+      "Sci-Fi"
+    ]
+  },
+  {
+    "title": "Richard Pryor: Live in Concert",
+    "year": "1979",
+    "short_description": "A stand-up comedy film featuring the legendary Richard Pryor in his element, delivering a hilarious and poignant performance.",
+    "director": "Jeff Margolis",
+    "actors": [
+      "Richard Pryor"
+    ],
+    "genre": [
+      "Comedy"
+    ]
+  },
+  {
+    "title": "Ringling Bros. Parade Film",
+    "year": "1902",
+    "short_description": "An early silent film showcasing the grand parade of the Ringling Brothers Circus.",
+    "director": "N/A",
+    "actors": [
+      "N/A"
+    ],
+    "genre": [
+      "Documentary",
+      "Silent"
+    ]
+  },
+  {
+    "title": "Selena",
+    "year": "1997",
+    "short_description": "A biographical drama about the life and career of Tejano music star Selena Quintanilla-Pérez.",
+    "director": "Gregory Nava",
+    "actors": [
+      "Jennifer Lopez",
+      "Edward James Olmos"
+    ],
+    "genre": [
+      "Biography",
+      "Drama"
+    ]
+  },
+  {
+    "title": "Sounder",
+    "year": "1972",
+    "short_description": "A drama about a black sharecropper family in Louisiana during the Great Depression.",
+    "director": "Martin Ritt",
+    "actors": [
+      "Cicely Tyson",
+      "Paul Winfield"
+    ],
+    "genre": [
+      "Drama"
+    ]
+  },
+  {
+    "title": "Stop Making Sense",
+    "year": "1984",
+    "short_description": "A concert film featuring a live performance by the rock band Talking Heads.",
+    "director": "Jonathan Demme",
+    "actors": [
+      "David Byrne",
+      "Chris Frantz"
+    ],
+    "genre": [
+      "Documentary",
+      "Music"
+    ]
+  },
+  {
+    "title": "Strangers on a Train",
+    "year": "1951",
+    "short_description": "A thriller about a tennis player and a psychopath who plot to swap murders.",
+    "director": "Alfred Hitchcock",
+    "actors": [
+      "Farley Granger",
+      "Robert Walker"
+    ],
+    "genre": [
+      "Crime",
+      "Thriller"
+    ]
+  },
+  {
+    "title": "Wall-E",
+    "year": "2008",
+    "short_description": "An animated film about a lonely waste-collecting robot on a deserted Earth who falls in love with a sleek, high-tech robot.",
+    "director": "Andrew Stanton",
+    "actors": [
+      "Ben Burtt",
+      "Elissa Knight"
+    ],
+    "genre": [
+      "Animation",
+      "Adventure"
+    ]
+  },
+  {
+    "title": "Watermelon Woman",
+    "year": "1996",
+    "short_description": "A drama about a young black lesbian working on a film about a black actress from the 1930s known for playing stereotypical \"mammy\" roles.",
+    "director": "Cheryl Dunye",
+    "actors": [
+      "Cheryl Dunye",
+      "Guinevere Turner"
+    ],
+    "genre": [
+      "Drama"
+    ]
+  },
+  {
+    "title": "What Ever Happened to Baby Jane",
+    "year": "1962",
+    "short_description": "A psychological thriller about a former child star who torments her paraplegic sister in their decaying Hollywood mansion.",
+    "director": "Robert Aldrich",
+    "actors": [
+      "Bette Davis",
+      "Joan Crawford"
+    ],
+    "genre": [
+      "Drama",
+      "Horror"
+    ]
+  },
+  {
+    "title": "Who Killed Vincent Chin",
+    "year": "1987",
+    "short_description": "A documentary about the murder of Vincent Chin, a Chinese-American man, in a hate crime in 1982.",
+    "director": "Christine Choy, Renee Tajima-Peña",
+    "actors": [
+      "N/A"
+    ],
+    "genre": [
+      "Documentary"
+    ]
+  },
+  {
+    "title": "The Wobblies",
+    "year": "1979",
+    "short_description": "A documentary about the Industrial Workers of the World (IWW), a radical labor union in the early 20th century.",
+    "director": "Deborah Shaffer, Stewart Bird",
+    "actors": [
+      "N/A"
+    ],
+    "genre": [
+      "Documentary"
+    ]
+  }
+]
