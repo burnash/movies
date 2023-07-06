@@ -121,7 +121,7 @@
     "short_description": "A classic romantic drama about a poetic but large-nosed man who helps a handsome man woo the woman he himself loves.",
     "director": "Michael Gordon",
     "actors": [
-      "José Ferrer",
+      "Jos\u00e9 Ferrer",
       "Mala Powers"
     ],
     "genre": [
@@ -577,7 +577,7 @@
   {
     "title": "Selena",
     "year": "1997",
-    "short_description": "A biographical drama about the life and career of Tejano music star Selena Quintanilla-Pérez.",
+    "short_description": "A biographical drama about the life and career of Tejano music star Selena Quintanilla-P\u00e9rez.",
     "director": "Gregory Nava",
     "actors": [
       "Jennifer Lopez",
@@ -674,7 +674,7 @@
     "title": "Who Killed Vincent Chin",
     "year": "1987",
     "short_description": "A documentary about the murder of Vincent Chin, a Chinese-American man, in a hate crime in 1982.",
-    "director": "Christine Choy, Renee Tajima-Peña",
+    "director": "Christine Choy, Renee Tajima-Pe\u00f1a",
     "actors": [
       "N/A"
     ],
@@ -692,6 +692,145 @@
     ],
     "genre": [
       "Documentary"
+    ]
+  },
+  {
+    "title": "The Battle of the Century",
+    "year": "1927",
+    "short_description": "A classic silent comedy film that features a hilarious pie fight, which is considered one of the largest in cinematic history.",
+    "director": "Clyde Bruckman",
+    "actors": [
+      "Stan Laurel",
+      "Oliver Hardy"
+    ],
+    "genre": [
+      "Comedy",
+      "Short"
+    ]
+  },
+  {
+    "title": "The Blues Brothers",
+    "year": "1980",
+    "short_description": "A musical comedy about two brothers who reunite their band to save the Catholic home where they were raised.",
+    "director": "John Landis",
+    "actors": [
+      "John Belushi",
+      "Dan Aykroyd"
+    ],
+    "genre": [
+      "Comedy",
+      "Music"
+    ]
+  },
+  {
+    "title": "Bread",
+    "year": "1918",
+    "short_description": "A silent drama about a woman who uses her inherited wealth to help the poor.",
+    "director": "Ida May Park",
+    "actors": [
+      "Mary MacLaren",
+      "Percy Challenger"
+    ],
+    "genre": [
+      "Drama",
+      "Silent"
+    ]
+  },
+  {
+    "title": "Buena Vista Social Club",
+    "year": "1999",
+    "short_description": "A documentary about a group of talented musicians from Cuba and their journey to perform in New York.",
+    "director": "Wim Wenders",
+    "actors": [
+      "Compay Segundo",
+      "Ibrahim Ferrer"
+    ],
+    "genre": [
+      "Documentary",
+      "Music"
+    ]
+  },
+  {
+    "title": "Cabin in the Sky",
+    "year": "1943",
+    "short_description": "A musical fantasy about a man who gets a second chance to prove he deserves to go to heaven.",
+    "director": "Vincente Minnelli",
+    "actors": [
+      "Ethel Waters",
+      "Eddie 'Rochester' Anderson"
+    ],
+    "genre": [
+      "Musical",
+      "Fantasy"
+    ]
+  },
+  {
+    "title": "A Clockwork Orange",
+    "year": "1971",
+    "short_description": "A dystopian crime film about a violent gang leader who undergoes experimental rehabilitation with controversial techniques.",
+    "director": "Stanley Kubrick",
+    "actors": [
+      "Malcolm McDowell",
+      "Patrick Magee"
+    ],
+    "genre": [
+      "Crime",
+      "Drama"
+    ]
+  },
+  {
+    "title": "The Dark Knight",
+    "year": "2008",
+    "short_description": "A superhero film where Batman faces his most dangerous enemy yet, the Joker, who wreaks havoc on Gotham City.",
+    "director": "Christopher Nolan",
+    "actors": [
+      "Christian Bale",
+      "Heath Ledger"
+    ],
+    "genre": [
+      "Action",
+      "Crime"
+    ]
+  },
+  {
+    "title": "The Devil Never Sleeps",
+    "year": "1994",
+    "short_description": "A documentary that explores the mysterious death of the filmmaker's uncle and the secrets of her family.",
+    "director": "Lourdes Portillo",
+    "actors": [
+      "Lourdes Portillo"
+    ],
+    "genre": [
+      "Documentary",
+      "Mystery"
+    ]
+  },
+  {
+    "title": "Freedom Riders",
+    "year": "2010",
+    "short_description": "A historical documentary about civil rights activists who challenged segregation in the American South in 1961.",
+    "director": "Stanley Nelson Jr.",
+    "actors": [
+      "Raymond Arsenault",
+      "Genevieve Houghton"
+    ],
+    "genre": [
+      "Documentary",
+      "History"
+    ]
+  },
+  {
+    "title": "Grease",
+    "year": "1978",
+    "short_description": "A musical romantic comedy about high school love in the 1950s, filled with catchy songs and dance numbers.",
+    "director": "Randal Kleiser",
+    "actors": [
+      "John Travolta",
+      "Olivia Newton-John"
+    ],
+    "genre": [
+      "Musical",
+      "Romance"
     ]
   }
 ]
